@@ -1,0 +1,13 @@
+2023-07-05 08:57:32,825 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-07-05 08:57:34,792 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2023-07-05 08:58:50,409 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-07-05 08:58:52,006 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2023-07-05 09:02:26,058 [Worker-10: Creating project "VtigerCrm"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: orgTyss:VtigerCrm:0.0.1-SNAPSHOT @ C:\Users\Mithun\OneDrive\Desktop\javaeclipse\VtigerCRM\VtigerCrm\pom.xml.
+2023-07-05 09:02:30,171 [Worker-10: Creating project "VtigerCrm"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /VtigerCrm/src/main/java
+2023-07-05 09:02:30,182 [Worker-10: Creating project "VtigerCrm"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /VtigerCrm/src/main/resources
+2023-07-05 09:02:30,183 [Worker-10: Creating project "VtigerCrm"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /VtigerCrm/src/test/java
+2023-07-05 09:02:30,184 [Worker-10: Creating project "VtigerCrm"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /VtigerCrm/src/test/resources
+2023-07-05 09:02:33,305 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-05 09:02:33,346 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-07-05 09:02:33,384 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-05 09:02:33,386 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
