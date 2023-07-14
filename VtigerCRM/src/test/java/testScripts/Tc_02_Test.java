@@ -19,7 +19,7 @@ public class Tc_02_Test extends BaseClass{
 	public void createOrganizationWithTypeAndIndustry() {
 		
 		Random random = new Random();
-		int randomNum = random.nextInt(100);
+		int randomNum = random.nextInt(200);
 	
         home.getOrganizationLink().click();
         ListenerImplemention.logger.log(Status.INFO, "click on orgniazation link");
