@@ -49,7 +49,8 @@ public class Tc_02_Test extends BaseClass{
 		if(createOrganization.getFinalConfirmationtext().getText().contains(orgName))
 		ListenerImplemention.logger.log(Status.PASS, "The oranization is created with industry and type field ");
 		else
-		ListenerImplemention.logger.log(Status.FAIL, "The oranization is not created");		
+		ListenerImplemention.logger.log(Status.FAIL, "The oranization is not created");	
+		System.out.println("vandanna");
 	}
 
 	
